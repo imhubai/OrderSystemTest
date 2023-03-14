@@ -1,0 +1,7 @@
+D:\vs\dc\点餐\点餐\obj\Release\点餐.csproj.CoreCompileInputs.cache
+D:\vs\dc\点餐\点餐\bin\Release\饭店点餐系统.exe
+D:\vs\dc\点餐\点餐\bin\Release\饭店点餐系统.pdb
+D:\vs\dc\点餐\点餐\obj\Release\饭店点餐系统.exe
+D:\vs\dc\点餐\点餐\obj\Release\饭店点餐系统.pdb
+D:\vs\dc\点餐\点餐\obj\Release\点餐.csproj.AssemblyReference.cache
+D:\vs\dc\点餐\点餐\bin\Release\饭店点餐系统.exe.config
